@@ -10,7 +10,7 @@ Back-end developer with a passion for computer simulations, quantitative finance
 = Projects
 #line(length: 90%)
 
-_Clicking project name sends you to github_
+_Click the project name you are interested in_
 
 - *#link("https://github.com/JuaniRaggio/Probabilidad")[Probabilidad (Typst)]:*  
   Collection of probability and statistics problems solved in LaTeX, covering theory and university-level exercises.
@@ -59,7 +59,6 @@ _Clicking project name sends you to github_
 = Technical Skills
 #line(length: 90%)
 
-#columns(2)[
 - C/C++ (Modern, STL, Multithreading)
 - Qt (widgets, signals/slots, GUI design)
 - Java (JUnit5, Maven)
@@ -67,6 +66,8 @@ _Clicking project name sends you to github_
 - Python (statistics, simulation, MicroPython)
 - SDL2
 - XML (XQuery, XSLT)
-- Bash, Lua, Elisp
-- Typst, LaTeX
-]
+- Bash (Shell automation)
+- Lua
+- Elisp
+- Typst
+- LaTeX
