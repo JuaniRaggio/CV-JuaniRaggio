@@ -3,11 +3,14 @@
 #align(center)[Buenos Aires, Argentina · #link("https://github.com/JuaniRaggio")[GitHub] · #link("https://linkedin.com/in/juani-raggio")[LinkedIn]]
 
 = Profile
+#line(length: 90%)
 
 Back-end developer with a passion for computer simulations, quantitative finance and optimization. Strong background in Java, C/C++ and Python, with experience in mathematical modeling, statistical analysis, and development of visual and algorithmic tools. Computer Engineering student at Instituto Tecnológico de Buenos Aires.
 
-#align(center)[= Projects
-_Clicking project name sends you to github_]
+= Projects
+#line(length: 90%)
+
+_Clicking project name sends you to github_
 
 - *#link("https://github.com/JuaniRaggio/Probabilidad")[Probabilidad (Typst)]:*  
   Collection of probability and statistics problems solved in LaTeX, covering theory and university-level exercises.
@@ -31,17 +34,20 @@ _Clicking project name sends you to github_]
   Using C++ and Qt to build a Data Structure Visualizer. Work in progress...
 
 = Education
+#line(length: 90%)
 
 - *Computer Engineering* – Instituto Tecnológico de Buenos Aires  
 - *Natural Sciences* – Balmoral College
 
 = Certificates
+#line(length: 90%)
 
 - First Certificate in English – Cambridge
 - ICE – Cambridge (Physics, Mathematics, Biology, Environmental Management, Language, Literature)
 - Fat Chance: Probability from the Ground Up – Harvard University
 
 = Languages
+#line(length: 90%)
 
 #columns(2)[
 - Spanish – Native
@@ -51,6 +57,7 @@ _Clicking project name sends you to github_]
 - German – Basic]
 
 = Technical Skills
+#line(length: 90%)
 
 #columns(2)[
 - C/C++ (Modern, STL, Multithreading)
