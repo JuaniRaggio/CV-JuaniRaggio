@@ -1,6 +1,6 @@
 #align(center)[= Juan Ignacio Raggio]
 
-#align(center)[Buenos Aires, Argentina · #link("https://github.com/JuaniRaggio")[GitHub] · #link("https://linkedin.com/in/juani-raggio")[LinkedIn]]
+#align(center)[Buenos Aires, Argentina · #link("https://github.com/JuaniRaggio")[GitHub] · #link("https://www.linkedin.com/in/juan-ignacio-raggio-1a331b2b3/")[LinkedIn]]
 
 = Profile
 #line(length: 90%)
