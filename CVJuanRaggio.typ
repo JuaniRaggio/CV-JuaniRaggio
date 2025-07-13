@@ -54,7 +54,7 @@ _Click the project name you are interested in_
 - English – Advanced
 #colbreak()
 - French – Basic
-- German – Basic]
+- Korean - Basic
 
 = Technical Skills
 #line(length: 90%)
